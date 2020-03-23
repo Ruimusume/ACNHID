@@ -1,0 +1,162 @@
+[
+  {
+    "update": false,
+    "locked": true,
+    "addr": "66A39B90C0",
+    "desc": "1",
+    "type": "INT",
+    "value": 2253
+  },
+  {
+    "update": false,
+    "locked": true,
+    "addr": "66A39B90C8",
+    "desc": "2",
+    "type": "INT",
+    "value": 2254
+  },
+  {
+    "update": false,
+    "locked": true,
+    "addr": "66A39B90D0",
+    "desc": "3",
+    "type": "INT",
+    "value": 2255
+  },
+  {
+    "update": false,
+    "locked": true,
+    "addr": "66A39B90D8",
+    "desc": "4",
+    "type": "INT",
+    "value": 2256
+  },
+  {
+    "update": false,
+    "locked": true,
+    "addr": "66A39B90E0",
+    "desc": "5",
+    "type": "INT",
+    "value": 2257
+  },
+  {
+    "update": false,
+    "locked": true,
+    "addr": "66A39B90E8",
+    "desc": "6",
+    "type": "INT",
+    "value": 2258
+  },
+  {
+    "update": false,
+    "locked": true,
+    "addr": "66A39B90F0",
+    "desc": "7",
+    "type": "INT",
+    "value": 2259
+  },
+  {
+    "update": false,
+    "locked": true,
+    "addr": "66A39B90F8",
+    "desc": "8",
+    "type": "INT",
+    "value": 2260
+  },
+  {
+    "update": false,
+    "locked": true,
+    "addr": "66A39B9100",
+    "desc": "9",
+    "type": "INT",
+    "value": 2261
+  },
+  {
+    "update": false,
+    "locked": true,
+    "addr": "66A39B9108",
+    "desc": "10",
+    "type": "INT",
+    "value": 2262
+  },
+  {
+    "update": false,
+    "locked": true,
+    "addr": "66A39B9110",
+    "desc": "11",
+    "type": "INT",
+    "value": 2263
+  },
+  {
+    "update": false,
+    "locked": true,
+    "addr": "66A39B9118",
+    "desc": "12",
+    "type": "INT",
+    "value": 2264
+  },
+  {
+    "update": false,
+    "locked": true,
+    "addr": "66A39B9120",
+    "desc": "13",
+    "type": "INT",
+    "value": 2265
+  },
+  {
+    "update": false,
+    "locked": true,
+    "addr": "66A39B9128",
+    "desc": "14",
+    "type": "INT",
+    "value": 2266
+  },
+  {
+    "update": false,
+    "locked": true,
+    "addr": "66A39B9130",
+    "desc": "15",
+    "type": "INT",
+    "value": 2267
+  },
+  {
+    "update": false,
+    "locked": true,
+    "addr": "66A39B9138",
+    "desc": "16",
+    "type": "INT",
+    "value": 2268
+  },
+  {
+    "update": false,
+    "locked": true,
+    "addr": "66A39B9140",
+    "desc": "17",
+    "type": "INT",
+    "value": 2269
+  },
+  {
+    "update": false,
+    "locked": true,
+    "addr": "66A39B9148",
+    "desc": "18",
+    "type": "INT",
+    "value": 2270
+  },
+  {
+    "update": false,
+    "locked": true,
+    "addr": "66A39B9150",
+    "desc": "19",
+    "type": "INT",
+    "value": 2271
+  },
+  {
+    "update": false,
+    "locked": true,
+    "addr": "66A39B9158",
+    "desc": "20",
+    "type": "INT",
+    "value": 2272
+  }
+]
