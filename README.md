@@ -3,7 +3,7 @@ Switch あつまれ どうぶつの森 アイテムID<br>
 Switch Animal Crossing: New Horizons item ID<br>
 Switch 集合吧！动物森友会 全物品ID<br>
 
-<img="https://imgur.com/iXLxgfB">
+<img src="https://imgur.com/iXLxgfB">
 v1.1.0<br>
 第1格	[[[[main+373A1F0] + E0] +18] +40]+ 0C8<br>
 第2格	[[[[main+373A1F0] + E0] +18] +40]+ 0D0<br>
