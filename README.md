@@ -1,4 +1,9 @@
 # Switch 集合吧！动物森友会 全物品ID中文数据库&出售价格一览
+
+by 露易娘 Ruimusume</br>
+日站博客：http://ruisan.blog.jp/</br>
+微博：https://weibo.com/ruisan</br>
+
 Switch あつまれ どうぶつの森 アイテムID<br>
 Switch Animal Crossing: New Horizons item ID<br>
 Switch 集合吧！动物森友会 全物品ID<br>
