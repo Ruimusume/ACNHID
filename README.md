@@ -8,7 +8,7 @@ BID:b0d6d16556b61bf5
 
 <img src="https://www.nintendo.co.jp/top/img/switch_mori_200131_l.jpg">
 
-<div align="center"><img src="https://i.imgur.com/iXLxgfB.png">
+<div align="center"><img src="https://i.imgur.com/iXLxgfB.png"><br>
 <br>
 <img src="https://i.imgur.com/6zCxsx8.png"></div>
 
