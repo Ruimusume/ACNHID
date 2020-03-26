@@ -9,7 +9,7 @@ BID:b0d6d16556b61bf5
 <img src="https://www.nintendo.co.jp/top/img/switch_mori_200131_l.jpg">
 
 <div align="center"><img src="https://i.imgur.com/iXLxgfB.png"></div>
-<img src="https://i.imgur.com/6zCxsx8.png></div>
+<img src="https://i.imgur.com/6zCxsx8.png">
 
 # 使用方式
 复制物品ID后到自定义代码表格的道具ID列里右键选择“粘贴为数值”<br>
