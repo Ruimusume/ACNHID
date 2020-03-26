@@ -5,4 +5,4 @@ Switch 集合吧！动物森友会 全物品ID<br>
 
 <img src="https://www.nintendo.co.jp/top/img/switch_mori_200131_l.jpg">
 
-<img src="https://i.imgur.com/iXLxgfB.png">
+<div  align="center"><img src="https://i.imgur.com/iXLxgfB.png"></div>
