@@ -7,4 +7,6 @@ Switch 集合吧！动物森友会 全物品ID<br>
 
 <div  align="center"><img src="https://i.imgur.com/iXLxgfB.png"></div>
 
-#Ues
+# 使用方式
+复制物品ID到txt文本后再次txt文本内复制贴出来的代码，最后粘贴到自定义代码表格的道具ID列里<br>
+最后选择E列直接复制粘贴到金手指文件上，建议用EditPlus工具改为utf-8编码
