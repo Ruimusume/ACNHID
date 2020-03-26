@@ -9,4 +9,4 @@ Switch 集合吧！动物森友会 全物品ID<br>
 
 # 使用方式
 复制物品ID后到自定义代码表格的道具ID列里右键选择“粘贴为数值”<br>
-然后选择E列直接复制粘贴到金手指文件上，建议用EditPlus工具改为utf-8编码
+然后选择E列直接复制粘贴到金手指文件上，建议用<a href="https://www.editplus.com/">EditPlus</a>工具改为utf-8编码
