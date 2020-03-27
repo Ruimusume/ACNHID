@@ -21,3 +21,5 @@ v1.1.1 BID:f829a27213d46f9f
 # 使用方式
 复制物品ID后到自定义代码表格的道具ID列里右键选择“粘贴为数值”<br>
 然后选择E列直接复制粘贴到金手指文件上，建议用<a href="https://www.editplus.com/">EditPlus</a>工具改为utf-8编码
+<hr>
+Thank you for offering:https://pastebin.com/u/imthe666st
