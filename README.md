@@ -24,3 +24,7 @@ v1.1.1 BID:f829a27213d46f9f
 然后选择E列直接复制粘贴到金手指文件上，建议用<a href="https://www.editplus.com/">EditPlus</a>工具改为UTF-8编码
 <hr>
 Thank you for offering:https://pastebin.com/u/imthe666st
+
+# NHSE是什么？
+存档修改工具，个人单纯做用修改名字以及修改住民用，目前并没具体数据对饮修改住民
+https://dev.azure.com/project-pokemon/NHSE/_build/results?buildId=1214&view=artifacts&type=publishedArtifacts
