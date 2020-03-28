@@ -17,7 +17,7 @@ v1.1.1 BID:f829a27213d46f9f
 
 <div align="center"><img src="https://i.imgur.com/iXLxgfB.png"><br>
 <br>
-<img src="https://i.imgur.com/6zCxsx8.png"></div>
+<img src="https://i.imgur.com/9C3ClAH.png"></div>
 
 # 使用方式
 复制物品ID后到自定义代码表格的道具ID列里右键选择“粘贴为数值”<br>
