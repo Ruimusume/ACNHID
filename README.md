@@ -29,3 +29,6 @@ Thank you for offering:https://pastebin.com/u/imthe666st
 存档修改工具，个人单纯做用修改名字以及修改住民用，目前并没具体数据对饮修改住民<br>
 打开JKSV导出的存档文件夹读取即可<br>
 https://dev.azure.com/project-pokemon/NHSE/_build/results?buildId=1214&view=artifacts&type=publishedArtifacts
+
+# Update Log
+http://ruisan.blog.jp/archives/6036917.html
