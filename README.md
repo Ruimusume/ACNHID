@@ -9,6 +9,7 @@ Switch Animal Crossing: New Horizons item ID<br>
 Switch 集合吧！动物森友会 全物品ID<br>
 
 TID:01006F8002326000<br>
+v1.0.0 BID:7fc1baff976aeca4<br
 v1.1.0 BID:b0d6d16556b61bf5<br>
 v1.1.1 BID:f829a27213d46f9f
 
