@@ -14,9 +14,6 @@ v1.1.0 BID:b0d6d16556b61bf5<br>
 v1.1.1 BID:f829a27213d46f9f
 
 <img src="https://i.imgur.com/X5Qoddd.jpg" alt="あつまれ どうぶつの森">
-
-<div align="center"><img src="https://i.imgur.com/iXLxgfB.png"><br>
-<br>
 <img src="https://i.imgur.com/QmOQLGA.png"></div>
 
 # 使用方式
