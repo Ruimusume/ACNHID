@@ -21,7 +21,7 @@ v1.1.1 BID:f829a27213d46f9f
 然后选择E列直接复制粘贴到金手指文件上，建议用<a href="https://www.editplus.com/">EditPlus</a>工具编辑txt另存为选择UTF-8编码
 <hr>
 Thank you for offering:
-https://pastebin.com/u/imthe666st
+https://pastebin.com/u/imthe666st<br>
 https://pastebin.com/u/NWPlayer123
 
 # NHSE是什么？
