@@ -1,4 +1,4 @@
-# Switch Animal Crossing items ID tool(CN+EN+JP)
+# Switch Animal Crossing items ID Tool(CN+EN+JP)
 Data in this table include simplified Chinese, English and Japanese，Comparison of three languages</br>
 In addition, it includes the selling price and purchase price of items</br>
 </br>
