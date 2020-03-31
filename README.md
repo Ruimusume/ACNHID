@@ -1,4 +1,4 @@
-# Switch 集合吧！动物森友会 全物品ID中日英数据库
+# Switch あつまれ どうぶつの森 全アイテムID中日英データベース
 ### Switch Animal Crossing item ID tool(CN+EN+JP)
 Data in this table include simplified Chinese, English and Japanese，Comparison of three languages</br>
 </br>
