@@ -24,7 +24,7 @@ Thank you for offering:<br>
 https://pastebin.com/u/imthe666st<br>
 https://pastebin.com/u/NWPlayer123
 
-# NHSE是什么？
+# What is NHSE？
 存档修改工具，个人单纯做用修改名字以及修改住民用，目前并没具体数据对应修改住民<br>
 打开JKSV导出的存档文件夹读取即可<br>
 https://dev.azure.com/project-pokemon/NHSE/_build/results?buildId=1255&view=artifacts&type=publishedArtifacts
