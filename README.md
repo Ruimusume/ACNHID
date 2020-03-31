@@ -16,9 +16,9 @@ v1.1.1 BID:f829a27213d46f9f
 <img src="https://i.imgur.com/X5Qoddd.jpg" alt="あつまれ どうぶつの森">
 <img src="https://i.imgur.com/QmOQLGA.png"></div>
 
-# 使用方式
+# How to use
 Copy the ID into the code generated ID column<br>
-<a href="https://www.editplus.com/">EditPlus</a>UTF-8
+<a href="https://www.editplus.com/">EditPlus</a>edit your cheat file from UTF-8
 <hr>
 Thank you for offering:<br>
 https://pastebin.com/u/imthe666st<br>
