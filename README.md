@@ -33,5 +33,5 @@ https://dev.azure.com/project-pokemon/NHSE/_build/results?buildId=1260&view=arti
 http://ruisan.blog.jp/archives/6036917.html
 
 # Donate
-Alipay or WeChat QR
+Alipay or WeChat QR</br>
 <img  class="pict" hspace="5" alt="5411c142" border="0" height="200" width="200" src="https://livedoor.blogimg.jp/ruimusume/imgs/f/d/fdb89528.jpg">
