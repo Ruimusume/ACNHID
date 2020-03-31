@@ -37,4 +37,9 @@ Alipay or WeChat QR</br>
 <img  class="pict" hspace="5" alt="5411c142" border="0" height="200" width="200" src="https://livedoor.blogimg.jp/ruimusume/imgs/f/d/fdb89528.jpg">
 
 Paypal</br>
-https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=UPALJR64YJN9U
+<form  action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+<input  type="hidden" name="cmd" value="_s-xclick">
+<input  type="hidden" name="hosted_button_id" value="UPALJR64YJN9U">
+<input  type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" border="0" name="submit" alt="PayPal – The safer, easier way to pay online!">
+<img  border="0" src="https://www.paypalobjects.com/zh_XC/i/scr/pixel.gif" width="1" height="1">
+</form>
