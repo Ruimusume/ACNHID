@@ -1,4 +1,4 @@
-# Switch 集合吧！动物森友会 全物品ID中文数据库&出售价格一览
+# Switch 集合吧！动物森友会 全物品ID中文数据库
 
 by 露易娘 Ruimusume</br>
 日站博客：http://ruisan.blog.jp/</br>
