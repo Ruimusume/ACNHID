@@ -17,8 +17,8 @@ v1.1.1 BID:f829a27213d46f9f
 <img src="https://i.imgur.com/QmOQLGA.png"></div>
 
 # 使用方式
-复制物品ID后到自定义代码表格的道具ID列里右键选择“粘贴为数值”<br>
-然后选择E列直接复制粘贴到金手指文件上，建议用<a href="https://www.editplus.com/">EditPlus</a>工具编辑txt另存为选择UTF-8编码
+Copy the ID into the code generated ID column<br>
+<a href="https://www.editplus.com/">EditPlus</a>UTF-8
 <hr>
 Thank you for offering:<br>
 https://pastebin.com/u/imthe666st<br>
