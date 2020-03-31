@@ -4,9 +4,7 @@ by 露易娘 Ruimusume</br>
 日站博客：http://ruisan.blog.jp/</br>
 微博：https://weibo.com/ruisan</br>
 
-Switch あつまれ どうぶつの森 アイテムID<br>
 Switch Animal Crossing: New Horizons item ID<br>
-Switch 集合吧！动物森友会 全物品ID<br>
 
 TID:01006F8002326000<br>
 v1.0.0 BID:7fc1baff976aeca4<br>
