@@ -1,5 +1,5 @@
 # Switch 集合吧！动物森友会 全物品ID中文数据库
-<h3>Switch_Animal_Crossing_item_ID_tool(CN)</h3>
+<h3>Switch Animal Crossing item ID tool(CN)</h3>
 by 露易娘 Ruimusume</br>
 日站博客：http://ruisan.blog.jp/</br>
 微博：https://weibo.com/ruisan</br>
