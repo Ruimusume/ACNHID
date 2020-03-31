@@ -27,7 +27,7 @@ https://pastebin.com/u/NWPlayer123
 # NHSE是什么？
 存档修改工具，个人单纯做用修改名字以及修改住民用，目前并没具体数据对应修改住民<br>
 打开JKSV导出的存档文件夹读取即可<br>
-https://dev.azure.com/project-pokemon/NHSE/_build/results?buildId=1248&view=artifacts&type=publishedArtifacts
+https://dev.azure.com/project-pokemon/NHSE/_build/results?buildId=1255&view=artifacts&type=publishedArtifacts
 
 # Update Log
 http://ruisan.blog.jp/archives/6036917.html
