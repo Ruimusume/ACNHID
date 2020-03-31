@@ -1,6 +1,7 @@
 # Switch あつまれ どうぶつの森 全アイテムID中日英データベース
 ### Switch Animal Crossing item ID tool(CN+EN+JP)
 Data in this table include simplified Chinese, English and Japanese，Comparison of three languages</br>
+In addition, it includes the selling price and purchase price of items</br>
 </br>
 by 露易娘 Ruimusume</br>
 日站博客：http://ruisan.blog.jp/</br>
