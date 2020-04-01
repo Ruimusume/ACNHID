@@ -17,6 +17,7 @@ v1.1.1 BID:f829a27213d46f9f
 
 <img src="https://i.imgur.com/X5Qoddd.jpg" alt="あつまれ どうぶつの森">
 <img src="https://i.imgur.com/1lnV8dw.png">
+<img src="https://i.imgur.com/Vy4dLdN.png">
 
 # How to use
 Copy the ID into the code generated(代码生成) ID column<br>
