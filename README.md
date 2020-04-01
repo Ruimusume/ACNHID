@@ -21,6 +21,7 @@ v1.1.1 BID:f829a27213d46f9f
 Copy the ID into the code generated(代码生成) ID column<br>
 <a href="https://www.editplus.com/">EditPlus</a> Edit cheats file code as UTF-8<br>
 Suggest using cheats in sxos environment<br>
+*If you can't open excel, please update your office, or use WPS to open it<br>
 <hr>
 Thank you for offering:<br>
 https://pastebin.com/u/imthe666st<br>
