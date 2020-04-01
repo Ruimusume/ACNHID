@@ -14,6 +14,9 @@ This Excel is completed by VBA and vlook functions
 Releases=リリース=发布<br>
 <a href="https://github.com/Ruimusume/ACNHID/releases">Releases</a>
 
+### Update Log
+http://ruisan.blog.jp/archives/6036917.html
+
 ### ID
 TID:01006F8002326000<br>
 v1.0.0 BID:7fc1baff976aeca4<br>
@@ -39,9 +42,6 @@ https://pastebin.com/u/NWPlayer123
 Save Edit Tools<br>
 You need to use JKSV export the save file<br>
 https://dev.azure.com/project-pokemon/NHSE/_build/results?buildId=1269&view=artifacts&type=publishedArtifacts
-
-# Update Log
-http://ruisan.blog.jp/archives/6036917.html
 
 # Donate
 Alipay or WeChat QR or Paypal</br>
