@@ -31,7 +31,7 @@ https://pastebin.com/u/NWPlayer123
 # What is NHSE？
 Save Edit Tools<br>
 You need to use JKSV export the save file<br>
-https://dev.azure.com/project-pokemon/NHSE/_build/results?buildId=1267&view=artifacts&type=publishedArtifacts
+https://dev.azure.com/project-pokemon/NHSE/_build/results?buildId=1269&view=artifacts&type=publishedArtifacts
 
 # Update Log
 http://ruisan.blog.jp/archives/6036917.html
