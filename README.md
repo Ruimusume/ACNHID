@@ -13,7 +13,7 @@ This Excel is completed by VBA and vlook functions
 ### Excel Download
 Releases=リリース=发布<br>
 <a href="https://github.com/Ruimusume/ACNHID/releases/latest">Releases</a><br>
-あなたのゲームの健康のために、狂ったように修正しないでください。楽しいゲームをしてください。_(:з」∠)_
+あなたのゲームの健康のために、狂ったように修正しないでください。楽しいゲームをしてください。(● ˃̶͈̀ロ˂̶͈́)੭ꠥ⁾⁾
 
 ### Update Log
 http://ruisan.blog.jp/archives/6036917.html
