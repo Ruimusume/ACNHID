@@ -12,7 +12,7 @@ This Excel is completed by VBA and vlook functions
 
 ### Excel Download
 Releases=リリース=发布<br>
-<a href="https://github.com/Ruimusume/ACNHID/releases">Releases</a>
+<a href="https://github.com/Ruimusume/ACNHID/releases/latest">Releases</a>
 
 ### Update Log
 http://ruisan.blog.jp/archives/6036917.html
