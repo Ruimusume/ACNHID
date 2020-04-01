@@ -10,17 +10,17 @@ Switch Animal Crossing: New Horizons items ID Database<br>
 Switch Animal Crossing items ID Tool is made by Excel<br>
 This Excel is completed by VBA and vlook functions
 
-# Download
-Releases=リリース=发布
+### Excel Download
+Releases=リリース=发布<br>
 <a href="https://github.com/Ruimusume/ACNHID/releases">Releases</a>
 
-# ID
+### ID
 TID:01006F8002326000<br>
 v1.0.0 BID:7fc1baff976aeca4<br>
 v1.1.0 BID:b0d6d16556b61bf5<br>
 v1.1.1 BID:f829a27213d46f9f
 
-# Screenshots
+### Screenshots
 <img src="https://i.imgur.com/X5Qoddd.jpg" alt="あつまれ どうぶつの森">
 <img src="https://i.imgur.com/1lnV8dw.png">
 <img src="https://i.imgur.com/Vy4dLdN.png">
