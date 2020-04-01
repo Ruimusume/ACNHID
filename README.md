@@ -6,7 +6,7 @@ by 露易娘 Ruimusume</br>
 Data in this table include simplified Chinese, English and Japanese，Comparison of three languages</br>
 In addition, it includes the selling price and purchase price of items</br>
 </br>
-Switch Animal Crossing: New Horizons item ID Database<br>
+Switch Animal Crossing: New Horizons items ID Database<br>
 Switch Animal Crossing items ID Tool is made by Excel<br>
 This Excel is completed by VBA and vlook functions
 
