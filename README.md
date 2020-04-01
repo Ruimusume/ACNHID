@@ -1,13 +1,15 @@
 # Switch Animal Crossing items ID Tool(CN+EN+JP)
-Data in this table include simplified Chinese, English and Japanese，Comparison of three languages</br>
-In addition, it includes the selling price and purchase price of items</br>
-</br>
 by 露易娘 Ruimusume</br>
 日站博客：http://ruisan.blog.jp/</br>
 微博：https://weibo.com/ruisan</br>
 
+Data in this table include simplified Chinese, English and Japanese，Comparison of three languages</br>
+In addition, it includes the selling price and purchase price of items</br>
+</br>
 Switch Animal Crossing: New Horizons item ID Database<br>
+Switch Animal Crossing items ID Tool is made by Excel<br>
 This Excel is completed by VBA and vlook functions
+<img src="https://i.imgur.com/QmOQLGA.png">
 
 TID:01006F8002326000<br>
 v1.0.0 BID:7fc1baff976aeca4<br>
@@ -15,7 +17,6 @@ v1.1.0 BID:b0d6d16556b61bf5<br>
 v1.1.1 BID:f829a27213d46f9f
 
 <img src="https://i.imgur.com/X5Qoddd.jpg" alt="あつまれ どうぶつの森">
-<img src="https://i.imgur.com/QmOQLGA.png"></div>
 
 # How to use
 Copy the ID into the code generated(代码生成) ID column<br>
