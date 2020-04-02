@@ -22,7 +22,8 @@ http://ruisan.blog.jp/archives/6036917.html
 TID:01006F8002326000<br>
 v1.0.0 BID:7fc1baff976aeca4<br>
 v1.1.0 BID:b0d6d16556b61bf5<br>
-v1.1.1 BID:f829a27213d46f9f
+v1.1.1 BID:f829a27213d46f9f<br>
+v1.1.2 BID:
 
 ### Screenshots
 <img src="https://i.imgur.com/X5Qoddd.jpg" alt="あつまれ どうぶつの森">
