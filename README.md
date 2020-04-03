@@ -1,4 +1,4 @@
-# Switch Animal Crossing items ID Tool(CN+EN+JP)
+# Switch Animal Crossing items ID Tools(CN+EN+JP)
 by 露易娘 Ruimusume</br>
 日站博客：http://ruisan.blog.jp/</br>
 微博：https://weibo.com/ruisan</br>
