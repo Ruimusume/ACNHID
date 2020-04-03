@@ -40,6 +40,7 @@ Suggest using cheats in sxos environment<br>
 Thank you for offering:<br>
 https://pastebin.com/u/imthe666st<br>
 https://pastebin.com/u/NWPlayer123
+https://github.com/kwsch/NHSE/tree/d080668b19d0c4e357a21da832d61b5f482c5997/NHSE.Core
 
 # What is NHSE？
 Save Edit Tools<br>
