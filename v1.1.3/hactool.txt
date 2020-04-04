@@ -1,0 +1,22 @@
+﻿AVZ  21:11:29
+C:\Users\NISAN>hactool.exe -tnca J:\hactool\update\08c5b41dcb5053770cfdd5d623676947.nca --titlekey=44fdfc7d7f789693c24e5aa64112658e --keyset=C:\Users\NISAN\.switch\prod.keys --romfsdir=J:\hactool\update\romfs2 --basenca J:\hactool\base\d3e9cc9b5aa2fa9dc345d676b60b6820.nca --outdir=J:\hactool\update\update
+
+AVZ  21:11:48
+C:\Users\NISAN>hactool.exe -tnca J:\hactool\base\d3e9cc9b5aa2fa9dc345d676b60b6820.nca --titlekey=39a4fe5ab9c889a20c204e31a75afde0 --keyset=C:\Users\NISAN\.switch\prod.keys --romfsdir=J:\hactool\base\romfs
+
+AVZ  21:11:48
+C:\Users\NISAN>hactool.exe -tnca J:\hactool\base\d3e9cc9b5aa2fa9dc345d676b60b6820.nca --titlekey=39a4fe5ab9c889a20c204e31a75afde0 --keyset=C:\Users\NISAN\.switch\prod.keys --romfsdir=J:\hactool\base\romfs
+
+
+
+hactool -tpfs0 D:\ACNH\ACNH(BASE).nsp --keyset=C:\Users\Rui\Desktop\hactool\prod.keys --outdir=D:\zzzz
+
+hactool -tpfs0 D:\ACNH\ACNH(BASE).nsp --outdir=D:\zzzz
+
+hactool -tnca D:\zzzz\d3e9cc9b5aa2fa9dc345d676b60b6820.nca --romfsdir=D:\zzzz\romfs
+
+hactool -tpfs0 D:\ACNH\ACNH[UPD]v1.1.3.nsp --outdir=D:\zzzz
+
+hactool -tnca D:\zzzz\08c5b41dcb5053770cfdd5d623676947.nca --titlekey=44fdfc7d7f789693c24e5aa64112658e --romfsdir=D:\zzzz\romfs --basenca D:\zzzz\d3e9cc9b5aa2fa9dc345d676b60b6820.nca --outdir=D:\zzzz\update
+
+hactool -tnca %UPD&DLC主nca文件路径% --titlekey=%tik文件获取的值% --romfsdir=%本体nca解包的文件夹位置% --basenca %本体主nca文件路径% --outdir=%输出文件夹位置%
