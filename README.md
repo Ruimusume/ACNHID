@@ -57,7 +57,7 @@ Copy the ID into the code generated(代码生成) ID column<br>
 Suggest using cheats in sxos environment<br>
 *If you can't open excel, please update your office, or use WPS to open it<br>
 <hr>
-Thank you for offering:<br>
+Thank you for refer to:<br>
 https://pastebin.com/u/imthe666st<br>
 https://pastebin.com/u/NWPlayer123
 https://github.com/kwsch/NHSE/tree/d080668b19d0c4e357a21da832d61b5f482c5997/NHSE.Core
