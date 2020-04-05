@@ -65,7 +65,7 @@ https://github.com/kwsch/NHSE/tree/d080668b19d0c4e357a21da832d61b5f482c5997/NHSE
 # What is NHSE？
 Save Edit Tools<br>
 You need to use JKSV export the save file<br>
-https://dev.azure.com/project-pokemon/NHSE/_build/results?buildId=1307&view=results
+https://dev.azure.com/project-pokemon/NHSE/_build/results?buildId=1319&view=artifacts&type=publishedArtifacts
 
 # Donate
 Alipay or WeChat QR or Paypal</br>
