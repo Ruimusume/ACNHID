@@ -10,9 +10,6 @@ Switch Animal Crossing: New Horizons items ID Database<br>
 Switch Animal Crossing items ID Tool is made by Excel<br>
 This Excel is completed by VBA and vlook functions
 
-### Excel Download
-Releases=リリース=发布(写给中国玩家 还是不知道哪里下真的没救了)<br>
-<a href="https://github.com/Ruimusume/ACNHID/releases/latest">Releases</a><br>
 あなたのゲームの健康のために、狂ったように修正しないでください。楽しいゲームをしてください。(● ˃̶͈̀ロ˂̶͈́)੭ꠥ⁾⁾
 
 ### Update Log
