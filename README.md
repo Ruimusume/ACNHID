@@ -70,7 +70,6 @@ https://dev.azure.com/project-pokemon/NHSE/_build/results?buildId=1357&view=arti
 # Donate
 Alipay or WeChat QR or Paypal</br>
 <img  class="pict" hspace="5" alt="5411c142" border="0" height="200" width="200" src="https://livedoor.blogimg.jp/ruimusume/imgs/f/d/fdb89528.jpg"></br>
-<a  target="_blank" href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=UPALJR64YJN9U"><img src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif"></a>
 
 # Unrelated
 https://qii404.me/github-release-statistics/
