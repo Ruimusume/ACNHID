@@ -63,8 +63,8 @@ You need to use JKSV export the save file<br>
 https://dev.azure.com/project-pokemon/NHSE/_build
 
 # Donate
-Alipay or WeChat QR or Paypal</br>
-<img  class="pict" hspace="5" alt="5411c142" border="0" height="200" width="200" src="https://livedoor.blogimg.jp/ruimusume/imgs/f/d/fdb89528.jpg"></br>
+Alipay</br>
+<img  class="pict" hspace="5" border="0" height="200" width="200" src="https://livedoor.blogimg.jp/ruimusume/imgs/5/8/585cc192.jpg"></br>
 
 # Unrelated
 https://qii404.me/github-release-statistics/
