@@ -68,6 +68,3 @@ Alipay</br>
 
 # Unrelated
 https://qii404.me/github-release-statistics/
-
-# Villager
-<img src="https://i.imgur.com/vjm7Do6.jpg" alt="あつまれ どうぶつの森">
