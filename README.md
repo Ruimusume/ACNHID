@@ -5,8 +5,6 @@ by 露易娘 Ruimusume</br>
 
 In addition, it includes the selling price and purchase price of items</br>
 </br>
-Switch Animal Crossing: New Horizons items ID Database<br>
-Switch Animal Crossing items & villager ID Tools is made by Excel<br>
 This Excel is completed by VBA and vlook functions
 
 あなたのゲームの健康のために、狂ったように修正しないでください。楽しいゲームをしてください。(● ˃̶͈̀ロ˂̶͈́)੭ꠥ⁾⁾
