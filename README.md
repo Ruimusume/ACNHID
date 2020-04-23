@@ -3,7 +3,6 @@ by 露易娘 Ruimusume</br>
 日站博客：http://ruisan.blog.jp/</br>
 微博：https://weibo.com/ruisan</br>
 
-Data in this table include simplified Chinese, English and Japanese，Comparison of three languages</br>
 In addition, it includes the selling price and purchase price of items</br>
 </br>
 Switch Animal Crossing: New Horizons items ID Database<br>
@@ -44,6 +43,10 @@ http://ruisan.blog.jp/archives/6036917.html
       <tr>
       <td>v1.1.4 BID</td>
       <td>a31f81d41e1039c5</td>
+    </tr>
+      <tr>
+      <td>v1.2.0 BID</td>
+      <td>20ca968c082118c2</td>
     </tr>
   </table>
 
