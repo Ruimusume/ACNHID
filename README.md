@@ -7,7 +7,6 @@ Cheat code generation tool,Include all item price data and villagers' cheating c
 Provide graphic preview function</br>
 You can use this tool to preview all colors of FRT classification and generate cheat codes</br>
 </br>
-
 #### It can be used to mount data in other languages
 
 This Excel is completed by VBA and vlook functions
