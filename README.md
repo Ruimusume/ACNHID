@@ -3,7 +3,7 @@ by 露易娘 Ruimusume</br>
 日站博客：http://ruisan.blog.jp/</br>
 微博：https://weibo.com/ruisan</br>
 
-Cheat code generation tool,Include all item price data</br>
+Cheat code generation tool,Include all item price data and villagers' cheating code</br>
 Provide graphic preview function</br>
 You can use this tool to preview all colors of FRT classification and generate cheat codes</br>
 </br>
