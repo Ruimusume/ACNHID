@@ -49,7 +49,6 @@ http://ruisan.blog.jp/archives/6036917.html
   </table>
 
 ### Screenshots
-<img src="https://i.imgur.com/X5Qoddd.jpg" alt="あつまれ どうぶつの森">
 <img src="https://i.imgur.com/G8GJmgv.png">
 
 # How to use
