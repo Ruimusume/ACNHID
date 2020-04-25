@@ -50,7 +50,7 @@ http://ruisan.blog.jp/archives/6036917.html
 
 ### Screenshots
 <img src="https://i.imgur.com/X5Qoddd.jpg" alt="あつまれ どうぶつの森">
-<img src="https://i.imgur.com/zOsDgUU.png">
+<img src="https://i.imgur.com/G8GJmgv.png">
 
 # How to use
 Copy the ID into the code generated(代码生成) ID column<br>
