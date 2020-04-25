@@ -3,7 +3,9 @@ by 露易娘 Ruimusume</br>
 日站博客：http://ruisan.blog.jp/</br>
 微博：https://weibo.com/ruisan</br>
 
-In addition, it includes the selling price and purchase price of items</br>
+Cheat code generation tool,Include all item price data</br>
+Provide graphic preview function</br>
+You can use this tool to preview all colors of FRT classification and generate cheat codes</br>
 </br>
 This Excel is completed by VBA and vlook functions
 
