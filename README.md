@@ -22,31 +22,6 @@ http://ruisan.blog.jp/archives/6036917.html
       <td>TID</td>
       <td>01006F8002326000</td>
     </tr>
-    <tr>
-      <td>v1.0.0 BID</td>
-      <td>7fc1baff976aeca4</td>
-    </tr>
-    <tr>
-      <td>v1.1.0 BID</td>
-      <td>b0d6d16556b61bf5</td>
-    </tr>
-    <tr>
-      <td>v1.1.1 BID</td>
-      <td>f829a27213d46f9f</td>
-    </tr>
-    <tr>
-      <td>v1.1.2 BID</td>
-      <td>3068f51723dc1a67</td>
-    </tr>
-    <tr>
-      <td>v1.1.3 BID</td>
-      <td>e2d890a4d19fad02</td>
-    </tr>
-      <tr>
-      <td>v1.1.4 BID</td>
-      <td>a31f81d41e1039c5</td>
-    </tr>
-      <tr>
       <td>v1.2.0 BID</td>
       <td>20ca968c082118c2</td>
     </tr>
