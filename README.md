@@ -27,9 +27,6 @@ http://ruisan.blog.jp/archives/6036917.html
     </tr>
   </table>
 
-### Screenshots
-<img src="https://i.imgur.com/G8GJmgv.png">
-
 # How to use
 本工具可以自行操作更新游戏数据库<br />
 如果你需要其他语言，你只需要按照规范制作数据库表格加载即可<br />
