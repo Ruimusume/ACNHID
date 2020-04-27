@@ -31,18 +31,18 @@ http://ruisan.blog.jp/archives/6036917.html
 本工具可以自行操作更新游戏数据库<br />
 如果你需要其他语言，你只需要按照规范制作数据库表格加载即可<br />
 数据库表格制作规范：A列=ID，B列=分类，C列=名称，D列（可以不填）=备注<br />
-1.制作上述规范数据库表格<br />
-2.打开Switch_Animal_Crossing_Cheats_Generator_Tools.xlsm<br />
-3.选择“更新”—“编辑链接”—“更改源”<br />
-4.选择自己制作的数据库表格即可<br />
+1. 制作上述规范数据库表格<br />
+2. 打开Switch_Animal_Crossing_Cheats_Generator_Tools.xlsm<br />
+3. 选择“更新”—“编辑链接”—“更改源”<br />
+4. 选择自己制作的数据库表格即可<br />
 <br />
 このツールは自分で操作してゲームデータベースを更新できます。<br />
 他の言語が必要であれば、仕様に従ってデータベーステーブルを作成してロードすればいいです。<br />
 データベーステーブル作成規則：A列=ID、B列=分類、C列=名前、D列（書かなくてもいいです）=備考<br />
-1.上記の標準データベーステーブルを作成する<br />
-2.「Switch Animal Crossing Cheats Generator Tools.xlsm」を開く<br />
-3.「Update」-「Edit Link」-「Change Source」を選択してください<br />
-4.独自のデータベーステーブルを選択<br />
+1. 上記の標準データベーステーブルを作成する<br />
+2. 「Switch Animal Crossing Cheats Generator Tools.xlsm」を開く<br />
+3. 「Update」-「Edit Link」-「Change Source」を選択してください<br />
+4. 独自のデータベーステーブルを選択<br />
 <br />
 This tool can update the game database by itself<br />
 If you need other languages, you just need to make database tables according to the specifications and load them<br />
