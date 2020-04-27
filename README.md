@@ -31,10 +31,29 @@ http://ruisan.blog.jp/archives/6036917.html
 <img src="https://i.imgur.com/G8GJmgv.png">
 
 # How to use
-Copy the ID into the code generated(代码生成) ID column<br>
-<a href="https://www.editplus.com/">EditPlus</a> Edit cheats file code as UTF-8<br>
-Suggest using cheats in sxos environment<br>
-*If you can't open excel, please update your office, or use WPS to open it<br>
+本工具可以自行操作更新游戏数据库
+如果你需要其他语言，你只需要按照规范制作数据库表格加载即可
+数据库表格制作规范：A列=ID，B列=分类，C列=名称，D列（可以不填）=备注
+1.制作上述规范数据库表格
+2.打开Switch_Animal_Crossing_Cheats_Generator_Tools.xlsm
+3.选择“更新”—“编辑链接”—“更改源”
+4.选择自己制作的数据库表格即可
+
+このツールは自分で操作してゲームデータベースを更新できます。
+他の言語が必要であれば、仕様に従ってデータベーステーブルを作成してロードすればいいです。
+データベーステーブル作成規則：A列=ID、B列=分類、C列=名前、D列（書かなくてもいいです）=備考
+1.上記の標準データベーステーブルを作成する
+2.「Switch Animal Crossing Cheats Generator Tools.xlsm」を開く
+3.「Update」-「Edit Link」-「Change Source」を選択してください
+4.独自のデータベーステーブルを選択
+
+This tool can update the game database by itself
+If you need other languages, you just need to make database tables according to the specifications and load them
+Database table production specification: column a = ID, column B = classification, column C = name, column D (can not be filled in) = remarks
+1.Make the above standard database table
+2.Open "Switch Animal Crossing Cheats Generator Tools.xlsm"
+3.Select "Update"-"Edit Link"-"Change Source"
+4.Select your own database table
 
 # What is NHSE？
 Save Edit Tools<br>
