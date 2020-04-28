@@ -41,7 +41,7 @@ http://ruisan.blog.jp/archives/6036917.html
 データベーステーブル作成規則：A列=ID、B列=分類、C列=名前、D列（書かなくてもいいです）=備考<br />
 1.上記の標準データベーステーブルを作成する<br />
 2.「Switch Animal Crossing Cheats Generator Tools.xlsm」を開く<br />
-3.「Update」-「Edit Link」-「Change Source」を選択してください<br />
+3.「更新する」-「リンクの編集」-「リンク元の変更」を選択してください<br />
 4.独自のデータベーステーブルを選択<br />
 <br />
 This tool can update the game database by itself<br />
