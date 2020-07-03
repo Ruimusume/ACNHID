@@ -23,7 +23,7 @@ http://ruisan.blog.jp/archives/6036917.html
       <td>01006F8002326000</td>
     </tr>
       <td>v1.3.0 BID</td>
-      <td>9429fc5202937d7f</td>
+      <td>fdc1632048facfbd</td>
     </tr>
   </table>
 
