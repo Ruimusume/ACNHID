@@ -15,8 +15,6 @@ This Excel is completed by VBA and vlook functions
 
 ### Update Log
 http://ruisan.blog.jp/archives/6036917.html
-and
-http://ruisan.blog.jp/archives/6786590.html
 
 ### TitleID & BuildID
   <table>
