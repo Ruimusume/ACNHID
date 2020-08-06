@@ -22,8 +22,8 @@ http://ruisan.blog.jp/archives/6036917.html
       <td>TID</td>
       <td>01006F8002326000</td>
     </tr>
-      <td>v1.4.0 BID</td>
-      <td>ac5309b683630ced</td>
+      <td>v1.4.1 BID</td>
+      <td>7515e5f76d09f8a3</td>
     </tr>
   </table>
 
