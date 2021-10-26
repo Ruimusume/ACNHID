@@ -11,7 +11,7 @@ It can be used to mount data in other languages</br>
 
 This Excel is completed by VBA and vlook functions
 
-あなたのゲームの健康のために、狂ったように修正しないでください。楽しいゲームをしてください。(● ˃̶͈̀ロ˂̶͈́)੭ꠥ⁾⁾
+あなたのゲームの健康のために、狂ったように改造しないでください。楽しいゲームをしてください。(● ˃̶͈̀ロ˂̶͈́)੭ꠥ⁾⁾
 
 ### Update Log
 http://ruisan.blog.jp/archives/6036917.html
